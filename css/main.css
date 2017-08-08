@@ -48,7 +48,7 @@ p {
   color: rgba(255, 255, 255, 0.7);
 }
 section {
-  padding: 50px 0;
+  padding: 70px 0;
 }
 /*** Navigation Bar Styling ***/
 .navbar-default {
@@ -218,6 +218,10 @@ header .header-content .header-content-inner h1 {
 }
 
 /*** Portfolio Section Styles ***/
+#portfolio {
+  padding: 0px;
+}
+
 #portfolio .container-fluid, 
 #portfolio .col-sm-4  {
   overflow: hidden;
