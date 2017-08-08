@@ -61,4 +61,9 @@
         }
     });
 
+    //Initiat WOW JS
+    new WOW().init();
+    //smoothScroll
+    smoothScroll.init();
+
 })(jQuery); // End of use strict
